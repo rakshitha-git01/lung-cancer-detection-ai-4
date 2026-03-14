@@ -1,2 +1,2 @@
-# lung-cancer-detection-ai-4
-LCD
+# Major-Project-2004
+Great experience !
